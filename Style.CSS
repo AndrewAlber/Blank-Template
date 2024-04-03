@@ -1,0 +1,10 @@
+div { display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: center;
+
+}
+div img {
+width: 400px;
+ height: 300px;
+border: 2px solid #ff3d0036;}
