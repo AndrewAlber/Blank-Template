@@ -24,3 +24,11 @@ p {
   #first-paragraph {
     color: aliceblue;
   }
+  
+  #kirby {
+    display: flex;
+    
+    flex-wrap:wrap;
+  }
+ 
+  
